@@ -19,7 +19,7 @@
         <span>Javascript</span>
     </div>
     <div>
-        <img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" width=25px alt="angular">
+        <img src="https://seeklogo.com/images/R/rxjs-logo-1C13E67498-seeklogo.com.png" width=25px alt="angular">
         <span>RxJS</span>
     </div>
     <div>
