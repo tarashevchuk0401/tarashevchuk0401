@@ -48,21 +48,6 @@
             <br>
             <img src="https://img.icons8.com/?size=512&id=20906&format=png" width=25px alt="">
             <span>https://github.com/tarashevchuk0401/clothes</span>
-            <p>
-                Online shop with clothes. Written in Angular and deployed in Firebase.
-                User can log in as a administrator and see all available items in shop. Also , it's possible to
-                add new items using Angular Forms. If neseccary you can delete it or add to the cart if you would like
-                to buy something.
-                In left side of home page user can filter clothes by tags(t-shirts, jeans, shoes ...).
-                Search pannel is available so you can write some key word to find something.
-                Appliction is responsive so you can use it also on your phone or tablet
-                <br>
-                <br>
-                I've been using RxJS library for getting and creating data from data base.
-                <br>
-                Also i used routing, guarders for protect the data and local storage for match
-                if user is authorised or not.
-            </p>
         </div>
     </section>
     <section>
@@ -74,19 +59,6 @@
             <br>
             <img src="https://img.icons8.com/?size=512&id=20906&format=png" width=25px alt="">
             <span>https://github.com/tarashevchuk0401/toDoFirebase</span>
-            <p>
-                Todolist
-                Simple to do list application. Created by using Angular, RxJS and Firebase. User can log in or sign up
-                by email and
-                password. It's possible to write some task
-                and after that if necessary match as done. All done tasks will be available in separate section of
-                application.
-                Text of task can be edited. All changes will be saved in the data base.
-                <br>
-                <br>
-                I used Angular , library RxJS and CRUD operation for editing data. Also in this project is graders for
-                protect data , form validation and resolvers.
-            </p>
         </div>
     </section>
 </div>
