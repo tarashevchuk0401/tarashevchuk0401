@@ -38,8 +38,7 @@
 </section>
 <div>
     <h2> MY PET-PROJECTS</h2>
-    
-    <section>
+     <section>
         <h3>Bike shop</h3>
         <h4>Online shop </h4>
         <div>
