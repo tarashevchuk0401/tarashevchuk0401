@@ -38,6 +38,18 @@
 </section>
 <div>
     <h2> MY PET-PROJECTS</h2>
+    
+    <section>
+        <h3>Bike shop</h3>
+        <h4>Online shop </h4>
+        <div>
+            <img src="https://img.icons8.com/?size=512&id=1349&format=png" width=25px alt="">
+            <span>https://store-payment.web.app</span>
+            <br>
+            <img src="https://img.icons8.com/?size=512&id=20906&format=png" width=25px alt="">
+            <span>https://github.com/tarashevchuk0401/store-payment</span>
+        </div>
+    </section>
     <section>
         <h3>LIFESTYLE</h3>
         <h4>Online shop with clothes</h4>
