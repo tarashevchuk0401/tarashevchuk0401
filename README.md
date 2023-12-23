@@ -35,6 +35,18 @@
         <img src="https://img.icons8.com/?size=512&id=QBqFNfPPB2Kx&format=png" width=25px alt="angular">
         <span>Sass </span>
     </div>
+    <div>
+        <img src="https://icons8.com/icon/hsPbhkOH4FMe/node-js" width=25px alt="angular">
+        <span>Sass </span>
+    </div>
+    <div>
+        <img src="https://img.icons8.com/?size=512&id=QBqFNfPPB2Kx&format=png" width=25px alt="angular">
+        <span>Sass </span>
+    </div>
+    <div>
+        <img src="https://img.icons8.com/?size=512&id=QBqFNfPPB2Kx&format=png" width=25px alt="angular">
+        <span>Sass </span>
+    </div>
 </section>
 <div>
     <h2> MY PET-PROJECTS</h2>
