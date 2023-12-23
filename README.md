@@ -61,14 +61,11 @@
         </div>
     </section>
     <section>
-        <h3>ToDoList</h3>
-        <h4>To do list</h4>
+        <h3>To do list</h3>
+        <h4>ToDoList with Node.js and MongoDB</h4>
         <div>
-            <img src="https://img.icons8.com/?size=512&id=1349&format=png" width=25px alt="">
-            <span>https://newtodofirebase.web.app</span>
-            <br>
             <img src="https://img.icons8.com/?size=512&id=20906&format=png" width=25px alt="">
-            <span>https://github.com/tarashevchuk0401/toDoFirebase</span>
+            <span>https://github.com/tarashevchuk0401/toDoList-Node.js</span>
         </div>
     </section>
 </div>
