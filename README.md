@@ -50,17 +50,6 @@
         </div>
     </section>
     <section>
-        <h3>LIFESTYLE</h3>
-        <h4>Online shop with clothes</h4>
-        <div>
-            <img src="https://img.icons8.com/?size=512&id=1349&format=png" width=25px alt="">
-            <span>https://clothes-805bc.web.app</span>
-            <br>
-            <img src="https://img.icons8.com/?size=512&id=20906&format=png" width=25px alt="">
-            <span>https://github.com/tarashevchuk0401/clothes</span>
-        </div>
-    </section>
-    <section>
         <h3>To do list</h3>
         <h4>ToDoList with Node.js and MongoDB</h4>
         <div>
