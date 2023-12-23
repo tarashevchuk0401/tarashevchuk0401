@@ -37,7 +37,7 @@
     </div>
     <div>
         <img src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-lo" width=25px alt="angular">
-        <span>Sass </span>
+        <span>Node.js </span>
     </div>
     <div>
         <img src="https://img.icons8.com/?size=512&id=QBqFNfPPB2Kx&format=png" width=25px alt="angular">
