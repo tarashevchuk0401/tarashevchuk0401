@@ -35,9 +35,11 @@
         <img src="https://img.icons8.com/?size=512&id=QBqFNfPPB2Kx&format=png" width=25px alt="angular">
         <span>Sass </span>
     </div>
+    <div>Responsive web design</div>
     <div>Node.js</div>
-    <div>Node.js</div>
-    <div>Node.js</div>
+    <div>Unit tests</div>
+    <div>NgRX</div>
+    <div>MongoDB</div>
 </section>
 <div>
     <h2> MY PET-PROJECTS</h2>
