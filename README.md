@@ -36,7 +36,7 @@
         <span>Sass </span>
     </div>
     <div>
-        <img src="https://www.liblogo.com/img-logo/no6273n057-node-js-logo-nodejs-transparent-logo-google-search.png" width=25px alt="angular">
+        <img src="[https://www.liblogo.com/img-logo/no6273n057-node-js-logo-nodejs-transparent-logo-google-search.png](https://banner2.cleanpng.com/20180421/feq/kisspng-web-development-node-js-socket-io-javascript-netwo-modernization-5adab811677023.4675225415242834094237.jpg)" width=25px alt="angular">
         <span>Node.js </span>
     </div>
     <div>
