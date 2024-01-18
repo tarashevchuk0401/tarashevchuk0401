@@ -3,7 +3,7 @@
 </h1>
 <p>I'm frontend 
     <img src="https://img.icons8.com/?size=512&id=71257&format=png" width=25px alt="angular">
-    developer and currently I'm looking for a job.
+    developer.
 </p>
 <h2>Technologies</h2>
 <section>
