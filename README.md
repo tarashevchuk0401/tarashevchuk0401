@@ -4,6 +4,8 @@
 <p>I'm fullstack 
     <img src="https://img.icons8.com/?size=512&id=71257&format=png" width=25px alt="angular">
     <img src="[https://img.icons8.com/?size=512&id=71257&format=png](https://docs.nestjs.com/assets/logo-small-gradient.svg)" width=25px alt="angular">
+        <img src="https://docs.nestjs.com/assets/logo-small-gradient.svg" width=25px alt="angular">
+
     developer.
 </p>
 <h2>Technologies</h2>
